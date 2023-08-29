@@ -19,7 +19,7 @@ pip3 install pandas numpy scikit-learn matplotlib
 
 For any questions or suggestions, feel free to reach out:
 - [Email](mailto:meertcolak06@gmail.com)
-- [LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/mustafa-mert-%C3%A7olak-548b3725a/])
-- [YouTube]([https://twitter.com/yourhandle](https://www.youtube.com/channel/UCWOwD9YYq_77xxQf5sHQgLQ])
+- LinkedIn: [Mustafa Mert Çolak](https://www.linkedin.com/in/mustafa-mert-%C3%A7olak-548b3725a/)
+- YouTube: (https://www.youtube.com/channel/UCWOwD9YYq_77xxQf5sHQgLQ))
 
 ---
